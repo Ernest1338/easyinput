@@ -1,0 +1,14 @@
+[package]
+name = "easyinput"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Ernest1338"]
+description = "Dependency-less library providing an easy abstraction for getting user input"
+repository = "https://github.com/Ernest1338/easyinput"
+homepage = "https://github.com/Ernest1338/easyinput"
+documentation = "https://docs.rs/easyinput"
+readme = "README.md"
+keywords = ["user", "input"]
+
+[dependencies]
